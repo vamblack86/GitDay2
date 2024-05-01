@@ -1,0 +1,3 @@
+OCCPHT 04 Day2
+Git and Github Lesson
+This is a sample repository
